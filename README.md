@@ -46,10 +46,8 @@ This project develops and evaluates a multinomial logistic regression model to p
 Data not included due to confidentiality. Please contact me for collaboration requests.
 
 ## Repository Structure
-├── analysis.Rmd         # R Markdown source file  
-├── analysis.html        # Knitted HTML report  
-├── figures/             # Plots and visualizations  
-├── README.md            # Project description  
+ analysis.html        # Knitted HTML report  
+ README.md            # Project description  
 
 ## License / Citation
 This project is for academic and research purposes. Please cite appropriately if referenced, e.g., Sei, Lawrence. (2025). Predictive Modeling of Student Mathematics Performance: Multinomial Logistic Regression Analysis.
